@@ -2,7 +2,7 @@
   "name": "todo-app",
   "version": "1.0.0",
   "description": "My todo app",
-  "homepage": "https://namthit98.github.io/my-todo-app/",
+  "homepage": "https://namthit98.github.io/todo-app/",
   "main": "app.js",
   "scripts": {
     "deploy": "gh-pages -d build"
