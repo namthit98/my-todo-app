@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "My todo app",
+  "homepage": "https://github.com/namthit98/my-todo-app",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namthit98/my-todo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namthit98/my-todo-app/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
